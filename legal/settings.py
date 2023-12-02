@@ -23,9 +23,9 @@ print(BASE_DIR)
 SECRET_KEY = '4@i8ovd86&z^%)38hiy65s@oq1x#h5*@(uv+v14lgoa&$g!pt6'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['134.0.119.114', 'lexprice.ru', '*']
+ALLOWED_HOSTS = ['213.108.4.42', 'lexprice.ru', '*']
 
 
 # Application definition
